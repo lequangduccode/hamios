@@ -5,7 +5,7 @@
     --light: #F1F3FA;
     --dark: #1C2035;
 }
-.carousel-inner{
+#header-carousel{
     background-color: #13678A;
 }
 .back-to-top {
