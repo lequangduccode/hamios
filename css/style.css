@@ -5,7 +5,9 @@
     --light: #F1F3FA;
     --dark: #1C2035;
 }
-
+.carousel-inner{
+    background-color: #13678A;
+}
 .back-to-top {
     position: fixed;
     display: none;
