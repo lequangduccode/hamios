@@ -8,6 +8,9 @@
 #header-carousel{
     background-color: #13678A;
 }
+.testimonial-item{
+ height:348px;   
+}
 .back-to-top {
     position: fixed;
     display: none;
